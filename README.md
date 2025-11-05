@@ -1,0 +1,1 @@
+![Mealy and Moore Machine](./mealyandmoore.jpg)
